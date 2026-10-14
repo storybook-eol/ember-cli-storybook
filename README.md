@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository is archived. Ember support for Storybook has moved over to [ember-integrations](https://github.com/ember-integrations/ember-storybook).
+
 # ember-cli-storybook
 
 > 📒 Ember storybook adapter
